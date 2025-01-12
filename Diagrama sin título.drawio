@@ -160,7 +160,7 @@
           <mxGeometry y="80" width="200" height="26" as="geometry" />
         </mxCell>
         <mxCell id="OayAf-8oulqBLhYR-1FX-53" value="Profesor" style="swimlane;html=1;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=default;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=#dae8fc;fontFamily=Verdana;fontSize=12;strokeColor=#6c8ebf;gradientColor=none;fillStyle=zigzag-line;" vertex="1" parent="1">
-          <mxGeometry x="-160" y="760" width="260" height="372" as="geometry" />
+          <mxGeometry x="-160" y="760" width="260" height="424" as="geometry" />
         </mxCell>
         <mxCell id="OayAf-8oulqBLhYR-1FX-54" value="+ ID_PROFESOR: UUID" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="OayAf-8oulqBLhYR-1FX-53">
           <mxGeometry y="26" width="260" height="26" as="geometry" />
@@ -203,6 +203,12 @@
         </mxCell>
         <mxCell id="OayAf-8oulqBLhYR-1FX-99" value="+ ROL: ROL" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="OayAf-8oulqBLhYR-1FX-53">
           <mxGeometry y="346" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="OayAf-8oulqBLhYR-1FX-106" value="+ FECHA CONTRATADO" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="OayAf-8oulqBLhYR-1FX-53">
+          <mxGeometry y="372" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="OayAf-8oulqBLhYR-1FX-107" value="+ IDENTIFICACION LABORAL" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="OayAf-8oulqBLhYR-1FX-53">
+          <mxGeometry y="398" width="260" height="26" as="geometry" />
         </mxCell>
         <mxCell id="OayAf-8oulqBLhYR-1FX-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
